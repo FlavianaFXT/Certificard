@@ -60,10 +60,10 @@ O projeto é constituído de 1 página que trás cada projeto no ambiente do COD
 
 ### Estrutura de Pastas
 
-Composto por um arquivo .html, outro .css, .js e uma pasta contendo as imagens utilizadas no projeto. Além do README com a descrição de todo o processo de elaboração do projeto.
+Composto por um arquivo .html, outro .css, .js e o README com a descrição de todo o processo de elaboração do projeto.
 
 
-INSERIR-------------------------
+![image](https://github.com/user-attachments/assets/3dc678db-db99-4aca-8b33-f2883b94e20a)
 
 
 
